@@ -1,1 +1,3 @@
 # chatting robot
+
+corpus里面的index3是我通过语料库subtitle.corpus所创建的索引
